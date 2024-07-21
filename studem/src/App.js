@@ -6,7 +6,7 @@ import Home from './pages/Home';
 
 function App() {
   return (
-    <Router basename="/studem--/studem">
+    <Router basename="/studem--">
       
       <Home />
       
